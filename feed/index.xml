@@ -10,7 +10,7 @@
 <channel>
 	<title>First Choice Restaurant</title>
 	<atom:link href="http://localhost/firstchoicerestaurant/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://imanjavaid.github.io/firstchoice</link>
+	<link>https://imanjavaid.github.io/firstchoice</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 17 Feb 2022 19:21:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
-	<url>/https://imanjavaid.github.io/firstchoice/wp-content/uploads/2022/02/cropped-Untitled-design-1-100x100.png</url>
+	<url>https://imanjavaid.github.io/firstchoice/wp-content/uploads/2022/02/cropped-Untitled-design-1-100x100.png</url>
 	<title>First Choice Restaurant</title>
-	<link>/https://imanjavaid.github.io/firstchoice</link>
+	<link>https://imanjavaid.github.io/firstchoice</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/https://imanjavaid.github.io/firstchoice/hello-world/</link>
-					<comments>/https://imanjavaid.github.io/firstchoice/hello-world/#comments</comments>
+		<link>https://imanjavaid.github.io/firstchoice/hello-world/</link>
+					<comments>https://imanjavaid.github.io/firstchoice/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Iman]]></dc:creator>
 		<pubDate>Thu, 17 Feb 2022 19:21:45 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://imanjavaid.github.io/firstchoice/?p=1</guid>
+		<guid isPermaLink="false">https://imanjavaid.github.io/firstchoice/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 		
-					<wfw:commentRss>/https://imanjavaid.github.io/firstchoice/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://imanjavaid.github.io/firstchoice/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

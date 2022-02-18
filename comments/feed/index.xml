@@ -9,7 +9,7 @@
 	<title>
 	Comments for First Choice Restaurant	</title>
 	<atom:link href="http://localhost/firstchoicerestaurant/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://imanjavaid.github.io/firstchoice</link>
+	<link>https://imanjavaid.github.io/firstchoice</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 17 Feb 2022 19:21:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/https://imanjavaid.github.io/firstchoice/hello-world/#comment-1</link>
+		<link>https://imanjavaid.github.io/firstchoice/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 17 Feb 2022 19:21:45 +0000</pubDate>
-		<guid isPermaLink="false">/https://imanjavaid.github.io/firstchoice/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://imanjavaid.github.io/firstchoice/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
